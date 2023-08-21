@@ -74,7 +74,7 @@ public class Reserva {
         }
     }
 
-    public Integer getPersonasPorReserva() {
+    public Integer getPersonasPorReserva(int i) {
         return personasPorReserva;
     }
 
